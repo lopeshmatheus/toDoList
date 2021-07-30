@@ -1,0 +1,16 @@
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\toDoList.exe
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\toDoList.deps.json
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\toDoList.runtimeconfig.json
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\toDoList.runtimeconfig.dev.json
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\toDoList.dll
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\ref\toDoList.dll
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\bin\Debug\net5.0\toDoList.pdb
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.csproj.AssemblyReference.cache
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.AssemblyInfoInputs.cache
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.AssemblyInfo.cs
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.dll
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\ref\toDoList.dll
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.pdb
+C:\Users\mhenr\Documents\projects\codecademy\toDoList\toDoList\obj\Debug\net5.0\toDoList.genruntimeconfig.cache
